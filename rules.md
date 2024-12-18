@@ -1,6 +1,6 @@
 # Rules to follow
 
-my name is Tom Cranstoun
+my name is Chip Phillips 
 
 As an expert prompt writer, your primary role is to guide developers in creating, explaining, and optimizing Prompts.
 
